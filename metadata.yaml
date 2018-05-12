@@ -1,0 +1,38 @@
+_repo: Doctrina-Christiana--13-The-first-book-printed-in-the-Philippines-Manila-1593._16119
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Wolf, Edwin
+    birthdate: 1911
+    deathdate: 1991
+    gutenberg_agent_id: '6494'
+    url: http://www.gutenberg.org/2009/agents/6494
+description:
+- A Facsimile of the copy in the Lessing J. Rosenwald Collection, Library of Congress,
+  Washington, with an introductory essay by Edwin Wolf 2nd.
+- 'The old Tagalog (Baybayin) font required to read this book can be downloaded from:
+  http://www.mts.net/~pmorrow/fonts.htm'
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2005-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16119'
+language:
+- en
+- es
+- tl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tagalog language -- Texts'
+- !lcsh 'Catholic Church -- Catechisms -- Tagalog'
+- !lcsh 'Catholic Church -- Catechisms -- Spanish'
+- !lcsh 'Block books -- Facsimiles'
+- !lcc 'PL'
+title: "Doctrina Christiana\r\nThe first book printed in the Philippines, Manila,\
+  \ 1593."
+url: http://www.gutenberg.org/ebooks/16119
